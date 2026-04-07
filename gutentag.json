@@ -1,0 +1,15 @@
+{
+  "n": "Gutentag, World!",
+  "on": true,
+  "bri": 200,
+  "seg": [
+    {
+      "id": 0,
+      "fx": 122,
+      "sx": 128,
+      "ix": 128,
+      "n": "Gutentag, World!",
+      "set": 0
+    }
+  ]
+}
